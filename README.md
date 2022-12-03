@@ -3,7 +3,7 @@
 Prerequisites:
 <ul>
 <li>Android SDK 24 (minimum)</li>
-<li></li>
+<li>Agora SDK Video Calling</li>
 <li></li>
 <li></li>
 </ul>
