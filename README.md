@@ -1,4 +1,4 @@
-# Android-Video-Calling-App-using-Agora-SDK
+# Androi Video Calling App using Agora SDK
 
 Prerequisites:
 <ul>
