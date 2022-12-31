@@ -1,14 +1,5 @@
 # Android Video Calling App
 
-Prerequisites:
-<ul>
-  <li>Android Studio Dolphin</li>
-  <li>Android SDK 24 (minimum)</li>
-  <li>Android Emulator: Pixel 6 API 30</li>
-  <li>System RAM: 8 GB</li>
-  <li>SDD: 20 GBs Free Space</li>
-</ul>
-
 <h2> Overview:</h2>
 Video calling applications allow people to communicate and connect with each other over the internet, using their smartphones, tablets, or computers. They provide a way to see and talk to each other in real time, regardless of where the participants are located.
 There are many reasons why people use video calling applications:
@@ -26,18 +17,25 @@ There are many video calling applications that you can use to connect with frien
   WhatsApp
 
 <h2>Tools used for Using this application:</h2>
-  Kotlin Programming Language
-  Ubuntu 22.0 OS 
-  Android Studio Dolphin
-  Android SDK 24 (minimum)
-  Android Emulator: Pixel 6 API 30
-  System RAM: 8 GB
-  SDD: 20 GBs Free Space
+  <ul>
+  <li>Kotlin Programming Language</li>
+  <li>Ubuntu 22.0 OS</li>
+  <li>Android Studio Dolphin</li>
+  <li>Android SDK 24 (minimum)</li>
+  <li>Android Emulator: Pixel 6 API 30</li>
+  <li>System RAM: 8 GB</li>
+  <li>SDD: 20 GBs Free Space</li>
+  </ul>
+
 <h2>Requirements for using:</h2>
-  Android Mobile
-  Android R Series
-  Minimum Oreo OS
-
-
+  
+  
+  <ul>
+  <li>Android Mobile</li>
+  <li>Android R Series</li>
+  <li>Minimum Oreo OS</li>
+  </ul>
+  
+  
 # Snapshots of User interface
 ![image](https://user-images.githubusercontent.com/73740818/210140809-f033fa8a-1cec-49e4-8c50-a3d6d1f2ca4c.png)
