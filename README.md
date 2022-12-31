@@ -13,4 +13,4 @@ Prerequisites:
 </ul>
 
 # Snapshots of User interface
-![Screenshot from 2022-12-31 18-38-20](https://user-images.githubusercontent.com/73740818/210139225-54c456a7-ca20-4580-abce-f41d134a7eb0.png)
+![image](https://user-images.githubusercontent.com/73740818/210140809-f033fa8a-1cec-49e4-8c50-a3d6d1f2ca4c.png)
