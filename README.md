@@ -23,6 +23,7 @@ There are many video calling applications that you can use to connect with frien
   <li>Android Studio Dolphin</li>
   <li>Android SDK 24 (minimum)</li>
   <li>Android Emulator: Pixel 6 API 30</li>
+  <li>Agora SDK</li>
   <li>System RAM: 8 GB</li>
   <li>SDD: 20 GBs Free Space</li>
   </ul>
